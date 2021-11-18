@@ -1,3 +1,6 @@
 
-
-google_analytics: 'G-CPQNFBH1KT'
+analytics:
+  provider: google
+  google:
+    tracking_id: G-CPQNFBH1KT
+    anonymize_ip: false
